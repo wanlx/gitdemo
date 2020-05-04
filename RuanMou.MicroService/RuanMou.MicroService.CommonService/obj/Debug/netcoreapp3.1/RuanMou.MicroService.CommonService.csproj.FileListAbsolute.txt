@@ -1,0 +1,4 @@
+D:\ruanmou-demo-.net\RuanMou.MicroService\RuanMou.MicroService.CommonService\bin\Debug\netcoreapp3.1\RuanMou.MicroService.CommonService.exe
+D:\ruanmou-demo-.net\RuanMou.MicroService\RuanMou.MicroService.CommonService\obj\Debug\netcoreapp3.1\RuanMou.MicroService.CommonService.csprojAssemblyReference.cache
+D:\ruanmou-demo-.net\RuanMou.MicroService\RuanMou.MicroService.CommonService\obj\Debug\netcoreapp3.1\RuanMou.MicroService.CommonService.AssemblyInfoInputs.cache
+D:\ruanmou-demo-.net\RuanMou.MicroService\RuanMou.MicroService.CommonService\obj\Debug\netcoreapp3.1\RuanMou.MicroService.CommonService.AssemblyInfo.cs

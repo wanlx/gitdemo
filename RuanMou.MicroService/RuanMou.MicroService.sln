@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{68421997-6FD3-49B9-AA38-437464215592}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{D54B4FBD-3299-4BFE-BE4F-34F9257B229C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RuanMou.MicroService.TeamService", "RuanMou.MicroService.TeamService\RuanMou.MicroService.TeamService.csproj", "{6EF67CAE-2935-41D3-A1D7-DC7CF31D98FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RuanMou.MicroService.LocationService", "RuanMou.MicroService.LocationService\RuanMou.MicroService.LocationService.csproj", "{3FAA2D1E-158B-4190-A175-40205D7EE983}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RuanMou.MicroService.AggregateService", "RuanMou.MicroService.AggregateService\RuanMou.MicroService.AggregateService.csproj", "{9259587E-2471-4054-A601-894F3EFA3747}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RuanMou.MicroService.TeamService.Tests", "RuanMou.MicroService.TeamService.Tests\RuanMou.MicroService.TeamService.Tests.csproj", "{1660ACB5-BA77-4C6C-BEBF-DF6875CAD531}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RuanMou.MicroService.CommonService", "RuanMou.MicroService.CommonService\RuanMou.MicroService.CommonService.csproj", "{8933F070-17CC-4939-B85B-40B3596979E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RuanMou.MicroService.MemberService", "RuanMou.MicroService.MemberService\RuanMou.MicroService.MemberService.csproj", "{B5DB37CD-FD74-4EAA-B560-B9AFB9F73562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EF67CAE-2935-41D3-A1D7-DC7CF31D98FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF67CAE-2935-41D3-A1D7-DC7CF31D98FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF67CAE-2935-41D3-A1D7-DC7CF31D98FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF67CAE-2935-41D3-A1D7-DC7CF31D98FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FAA2D1E-158B-4190-A175-40205D7EE983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FAA2D1E-158B-4190-A175-40205D7EE983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FAA2D1E-158B-4190-A175-40205D7EE983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FAA2D1E-158B-4190-A175-40205D7EE983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9259587E-2471-4054-A601-894F3EFA3747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9259587E-2471-4054-A601-894F3EFA3747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9259587E-2471-4054-A601-894F3EFA3747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9259587E-2471-4054-A601-894F3EFA3747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1660ACB5-BA77-4C6C-BEBF-DF6875CAD531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1660ACB5-BA77-4C6C-BEBF-DF6875CAD531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1660ACB5-BA77-4C6C-BEBF-DF6875CAD531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1660ACB5-BA77-4C6C-BEBF-DF6875CAD531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8933F070-17CC-4939-B85B-40B3596979E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8933F070-17CC-4939-B85B-40B3596979E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8933F070-17CC-4939-B85B-40B3596979E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8933F070-17CC-4939-B85B-40B3596979E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5DB37CD-FD74-4EAA-B560-B9AFB9F73562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DB37CD-FD74-4EAA-B560-B9AFB9F73562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5DB37CD-FD74-4EAA-B560-B9AFB9F73562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5DB37CD-FD74-4EAA-B560-B9AFB9F73562}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6EF67CAE-2935-41D3-A1D7-DC7CF31D98FC} = {68421997-6FD3-49B9-AA38-437464215592}
+		{3FAA2D1E-158B-4190-A175-40205D7EE983} = {68421997-6FD3-49B9-AA38-437464215592}
+		{9259587E-2471-4054-A601-894F3EFA3747} = {68421997-6FD3-49B9-AA38-437464215592}
+		{1660ACB5-BA77-4C6C-BEBF-DF6875CAD531} = {D54B4FBD-3299-4BFE-BE4F-34F9257B229C}
+		{8933F070-17CC-4939-B85B-40B3596979E6} = {68421997-6FD3-49B9-AA38-437464215592}
+		{B5DB37CD-FD74-4EAA-B560-B9AFB9F73562} = {68421997-6FD3-49B9-AA38-437464215592}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCB2E165-DA9D-48AC-B269-795E059420E7}
+	EndGlobalSection
+EndGlobal
